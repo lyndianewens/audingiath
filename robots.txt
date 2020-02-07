@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aegeiquoh.paranoid.casacam.net/sitemap.xml
